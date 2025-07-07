@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ai-website-builder/static/js/main.bc25f80d.js",
+    "index.html": "/ai-website-builder/index.html",
+    "main.bc25f80d.js.map": "/ai-website-builder/static/js/main.bc25f80d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc25f80d.js"
+  ]
+}
